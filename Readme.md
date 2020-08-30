@@ -1,8 +1,8 @@
-##Simple Pause with orientation plugin for Craftbeerpi
+## Simple Pause with orientation plugin for Craftbeerpi
 
 This simple plugin allows you to include a pause step with some orientation like to manually do something, a timer to wait for the manual action and the automatic move to next step after time elapses.
 
-####To use it just add a new step:
+#### To use it just add a new step:
     Choose PauseStep from step type
     Optionally include an orientation message: Like separe x liters of water to sparge
     Define the timer to stay in pause
