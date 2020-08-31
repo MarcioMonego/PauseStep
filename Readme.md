@@ -2,7 +2,7 @@
 
 This simple plugin allows you to include a pause step with some orientation like to manually do something, a timer to wait for the manual action and the automatic move to next step after time elapses.
 
-If you cloned the original plugins repository of Crafbeerpi (https://github.com/Manuel83/craftbeerpi-plugin) and followed ths instructions in my fork(https://github.com/MarcioMonego/craftbeerpi-plugins) then you can find the plugin in addon list of Craftbeerpi.  
+If you cloned the original plugins repository of Crafbeerpi (https://github.com/Manuel83/craftbeerpi-plugins) and followed ths instructions in my fork(https://github.com/MarcioMonego/craftbeerpi-plugins) then you can find the plugin in addon list of Craftbeerpi.  
 
 ![Plugin Selection](/images/PauseStepAddOn.png)
 Just download it.
